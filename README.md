@@ -4,23 +4,24 @@
 :computer: Front end Developer
 
 :hammer_and_wrench: Angular
-
+<br>
 :hammer_and_wrench: TypeScript
-
+<br>
 :hammer_and_wrench: Jest
-
+<br>
 :hammer_and_wrench: Mocha
-
+<br>
 :hammer_and_wrench: Cypress
-
+<br>
 :hammer_and_wrench: Git
-
+<br>
 :books: Learning ReactJS, NodeJS
 
-
-:office: Accenture
-
-:mortar_board: Civil Engineer
+:office: Work at Accenture
+<br>
+:mortar_board: BootCamp Front end Developer: @laboratoriala
+<br>
+:mortar_board: Degree: Civil Engineer
 
 ---
 
