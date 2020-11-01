@@ -17,7 +17,7 @@
 <br>
 :books: Learning ReactJS, NodeJS
 
-:office: Work at Accenture
+:office: Work at Santander Tecnologia e Inovação
 <br>
 :mortar_board: BootCamp Front end Developer: @laboratoriala
 <br>
