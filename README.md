@@ -15,7 +15,7 @@
 <br>
 :hammer_and_wrench: Git
 <br>
-:books: Learning ReactJS, NodeJS
+:books: Learning Java
 
 :office: Work at Santander Tecnologia e Inovação
 <br>
