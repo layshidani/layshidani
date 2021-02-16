@@ -9,8 +9,6 @@
 <br>
 :hammer_and_wrench: Jest
 <br>
-:hammer_and_wrench: Mocha
-<br>
 :hammer_and_wrench: Cypress
 <br>
 :hammer_and_wrench: Git
