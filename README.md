@@ -13,9 +13,9 @@
 <br>
 :hammer_and_wrench: Git
 <br>
-:books: Learning Java
+:books: Learning Node and Java
 
-:office: Work at Santander Tecnologia e Inovação
+:office: Work: Santander Tecnologia e Inovação
 <br>
 :mortar_board: BootCamp Front end Developer: @laboratoriala
 <br>
