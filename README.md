@@ -15,11 +15,9 @@
 <br>
 :books: Learning Node and Java
 
-:office: Work: Santander Tecnologia e Inovação
-<br>
 :mortar_board: BootCamp Front end Developer: @laboratoriala
 <br>
-:mortar_board: Degree: Civil Engineer
+:mortar_board: Degree: Civil Engineer | Software Engineer
 
 ---
 
