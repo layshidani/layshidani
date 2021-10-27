@@ -1,5 +1,12 @@
 # Lays Marie Hidani 
+
 :octocat: Hi!
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/43016358/139156603-efa3c9b0-e17c-4544-b9c2-28a3d2a08a61.png"
+    width="600px"
+  />
+</p>
 
 :computer: Front end Developer
 
@@ -23,12 +30,9 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
       src="https://github-readme-stats.vercel.app/api?username=layshidani&count_private=true&show_icons=true&custom_title=Github%20Status&hide=contribs&theme=tokyonight"
     />
-  </a>
 </p>
 <br>
 
