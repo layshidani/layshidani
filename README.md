@@ -12,6 +12,8 @@
 
 :hammer_and_wrench: Angular
 <br>
+:hammer_and_wrench: ReactJS
+<br>
 :hammer_and_wrench: TypeScript
 <br>
 :hammer_and_wrench: Akita (State management)
@@ -23,6 +25,8 @@
 :hammer_and_wrench: Git
 <br>
 :books: Learning Flutter
+<br>
+:books: Learning NodeJS
 
 :mortar_board: BootCamp Front-end Developer: @laboratoriala
 <br>
